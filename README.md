@@ -1,7 +1,7 @@
 # 开字母游戏
 ## 没什么用
 没什么用的东西  
-对标mail_set的[Letter_openning](https://github.com/mailset/letter-openning)和CyuuZ的[Packages_Unmasking](https://github.com/cyuuz-chan/packages_unmasking)  
+对标mail_set的[Letter_openning](https://github.com/mailset/letter-openning)和~~CyuuZ的[Packages_Unmasking](https://github.com/cyuuz-chan/packages_unmasking)~~（链接已失效）    
 （我可没拼错，他自己写的openning）  
 要问有什么用就问这两个人吧（  
   
